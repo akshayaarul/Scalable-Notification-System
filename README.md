@@ -28,7 +28,7 @@ In staff profile, the message icon is provided with a feature of sending notific
 
 ##  Login Credentials
 
-**url** : [Scalable Notification System](akshaya.epizy.com)
+**url** : akshaya.epizy.com
        
 ### 1.Student Login
 
