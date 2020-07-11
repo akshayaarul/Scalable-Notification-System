@@ -45,4 +45,4 @@ In staff profile, the message icon is provided with a feature of sending notific
 
 ## Student/Staff database
 
-
+![Student img](https://user-images.githubusercontent.com/67939612/87223435-db521b00-c307-11ea-909e-93a1c0dcb58b.PNG)
