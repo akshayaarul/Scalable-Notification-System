@@ -49,8 +49,14 @@ In staff profile, the message icon is provided with a feature of sending notific
 
 ![staff](https://user-images.githubusercontent.com/67939612/87223558-fe30ff00-c308-11ea-9fe4-0a6e65e9fecf.PNG)
 
-##Performance Metrics
+## Performance Metrics
 
 1. Notification to individual user
+
+![single](https://user-images.githubusercontent.com/67939612/87223670-c9717780-c309-11ea-842e-d90bc0c30c1f.PNG)
+
+2. Notification to subset of students
+
+
 
 
