@@ -57,6 +57,9 @@ In staff profile, the message icon is provided with a feature of sending notific
 
 2. Notification to subset of students
 
+![subset](https://user-images.githubusercontent.com/67939612/87223754-603e3400-c30a-11ea-84f4-158a646dd79d.PNG)
+
+3. Notification to Everyone
 
 
 
