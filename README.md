@@ -61,5 +61,7 @@ In staff profile, the message icon is provided with a feature of sending notific
 
 3. Notification to Everyone
 
+![everyone](https://user-images.githubusercontent.com/67939612/87223808-f2463c80-c30a-11ea-977d-e2ed2a41273a.PNG)
+
 
 
